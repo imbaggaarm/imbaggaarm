@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **Golang**, **Python**, **ReactJS**
+
+- ⚡ I'm a full-stack developer who can work on **iOS**, **Android**, **Golang**, **Python**, **ReactJS** 
+
+- 🌱 I’m currently learning **DevOps** and **Cryptography**
 <!--
 **imbaggaarm/imbaggaarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
